@@ -1,0 +1,19 @@
+{
+  "name": "k-mask-money",
+  "version": "0.1.0",
+  "description": "javascript mask for money",
+  "main": "src/index.js",
+  "author": "Marcelo Cabral Ghilardi",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "mask",
+    "currency",
+    "money"
+  ]
+}

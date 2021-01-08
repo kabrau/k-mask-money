@@ -3,7 +3,16 @@
   "version": "0.1.0",
   "description": "javascript mask for money",
   "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src"
+  ],
   "author": "Marcelo Cabral Ghilardi",
+  "homepage": "https://github.com/kabrau/k-mask-money",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabrau/k-mask-money.git"
+  },
   "license": "MIT",
   "scripts": {
     "test": "node test/test.js"
